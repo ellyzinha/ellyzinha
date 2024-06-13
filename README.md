@@ -1,16 +1,39 @@
-## Hi there 👋
+## About Me
 
-<!--
-**ellyzinha/ellyzinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤔 Always looking for new Knowledge and Learning something new.
+- 🎓 Graduating in Computer Science.
+- 💼 Software Engineer at Blip.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technologies**
+
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=C%2B%2B)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![NoSQL](https://img.shields.io/badge/-NoSQL-333333?style=flat&logo=nosql)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
+![Azure Devops](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure)
+![Azure Data Studio](https://img.shields.io/badge/-AzureDataStudio-333333?style=flat&logo=azure)
+
+<br/>
+
+## Where To Find Me
+
+[![Linkedin](https://img.shields.io/badge/-ellyzinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrielly-maria-471000187/)](https://www.linkedin.com/in/adrielly-maria-471000187/)
+[![Gmail Badge](https://img.shields.io/badge/-adriellylovato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adriellylovato@gmail)](mailto:adriellylovato@gmail)
+[![GitHub](https://img.shields.io/github/followers/ellyzinha?label=follow&style=social)](https://github.com/ellyzinha)
