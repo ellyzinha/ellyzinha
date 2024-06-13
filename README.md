@@ -38,6 +38,10 @@
 ![Azure Devops](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure)
 ![Azure Data Studio](https://img.shields.io/badge/-AzureDataStudio-333333?style=flat&logo=azure)
 
+<a href="https://github.com/ellyzinha" title="Ellyzinha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ellyzinha&theme=dracula&show_icons=true" />
+</a>
+
 <br/>
 
 ## Where To Find Me
