@@ -1,7 +1,7 @@
 ![Banner](https://s4.ezgif.com/tmp/ezgif-4-13f95baf6b.gif)
 ## About Me
 
-- 🤔 Always looking for new Knowledge and Learning something new.
+-🤓 Always looking for new Knowledge and Learning something new.
 - 🎓 Graduating in Computer Science.
 - 💼 Software Engineer at Blip.
 
