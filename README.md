@@ -1,4 +1,4 @@
-![Banner](https://s4.ezgif.com/tmp/ezgif-4-b9ea704a2d.gif)
+![Banner](https://s4.ezgif.com/tmp/ezgif-4-13f95baf6b.gif)
 ## About Me
 
 - 🤔 Always looking for new Knowledge and Learning something new.
