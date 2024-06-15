@@ -1,4 +1,3 @@
-![Banner](https://s4.ezgif.com/tmp/ezgif-4-917a542ed5.gif)
 ## About Me
 
 - 🤓 Always looking for new Knowledge and Learning something new.
